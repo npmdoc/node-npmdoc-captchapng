@@ -1,6 +1,6 @@
 # npmdoc-captchapng
 
-#### api documentation for  [captchapng (v0.0.1)](https://github.com/GeorgeChan/captchapng#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-captchapng.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-captchapng) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-captchapng.svg)](https://travis-ci.org/npmdoc/node-npmdoc-captchapng)
+#### basic api documentation for  [captchapng (v0.0.1)](https://github.com/GeorgeChan/captchapng#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-captchapng.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-captchapng) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-captchapng.svg)](https://travis-ci.org/npmdoc/node-npmdoc-captchapng)
 
 #### A numeric captcha generator for Node.js
 
